@@ -7,7 +7,9 @@ class SoftwareEngineer:
 
     def __init__(self):
         self.name = "Siyu Yan"
-        self.role = "🌱President of the iosClub at Central South University & 👯founder of Yunzhi Technology Company & 🔭 Future PhD student in the Bay Area, USA."
+        self.role = "🌱President of the iosClub at Central South University
+                     👯founder of Yunzhi Technology Company
+                     🔭 Future PhD student in the Bay Area, USA."
         self.language_spoken = ["zh_CN", "en_US"]
 
     def say_hi(self):
@@ -17,17 +19,7 @@ class SoftwareEngineer:
 me = SoftwareEngineer()
 me.say_hi()
 ```
-
-## 📝 Wesites
-
-- Personal website and blog: https://SGYSY.github.io/
-- Company website - Comming soon⚡
-
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
-
-# 🍕 Siyu's Top 8 Page🍕
-
-## bdougie has <!-- follower-counter -->2299<!-- /follower-counter --> followers
+## 🍕 Siyu's Top 8 Page🍕
 
 [@aprilspeight](https://github.com/aprilspeight) | [@Brawrdon](https://github.com/Brawrdon) | [@dayhaysoos](https://github.com/dayhaysoos) | [@ifiokjr](https://github.com/ifiokjr)
 --- | --- | --- | ---
@@ -36,6 +28,12 @@ me.say_hi()
 [@m0nica](https://github.com/m0nica) | [@Prophen](https://github.com/Prophen) | [@kjaymiller](https://github.com/kjaymiller) | [tom](#https://wittenbrock.github.io/toms-myspace-page/)
 --- | --- | --- | ---
 ![@m0nica](https://avatars.githubusercontent.com/m0nica?s=150&v=1) | ![@Prophen](https://avatars.githubusercontent.com/Prophen?s=150&v=1) | ![@kjaymiller](https://avatars.githubusercontent.com/kjaymiller?s=150&v=1) | ![tom](https://wittenbrock.github.io/toms-myspace-page/pictures/tom-pic.jpg)
+## 📝 Wesites
+
+- Personal website and blog: https://SGYSY.github.io/
+- Company website - Comming soon⚡
+
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
 ## 🔧 Technologies & Tools
 
