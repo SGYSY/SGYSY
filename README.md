@@ -19,9 +19,9 @@ class SoftwareEngineer:
 me = SoftwareEngineer()
 me.say_hi()
 ```
-## 🍕 Siyu's Top 8 Page🍕
+## 🍕 Siyu's Top 8 Friends🍕
 
-[@aprilspeight](https://github.com/aprilspeight) | [@Brawrdon](https://github.com/Brawrdon) | [@dayhaysoos](https://github.com/dayhaysoos) | [@ifiokjr](https://github.com/ifiokjr)
+[@chenweize1998](https://github.com/chenweize1998) | [@ASL-r](https://github.com/ASL-r) | [@Luffyzm3D2Y](https://github.com/Luffyzm3D2Y) | [@SuTiao](https://github.com/SuTiao?tab=overview&from=2022-12-01&to=2022-12-31)
 --- | --- | --- | ---
 ![@aprilspeight](https://avatars.githubusercontent.com/aprilspeight?s=150&v=1) | ![@Brawrdon](https://avatars.githubusercontent.com/Brawrdon?s=150&v=1) | ![@dayhaysoos](https://avatars.githubusercontent.com/dayhaysoos?s=150&v=1) | ![@ifiokjr](https://avatars.githubusercontent.com/ifiokjr?s=150&v=1)
 
