@@ -20,12 +20,12 @@ me = SoftwareEngineer()
 me.say_hi()
 ```
 ## 📝 Wesites
-
 - Personal website and blog: https://SGYSY.github.io/
 - Company website - Comming soon⚡
-## 🍕 Siyu's Top 8 Friends🍕
+
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
+## 🍕 Siyu's Top 8 Friends🍕
 [@chenweize1998](https://github.com/chenweize1998) | [@ASL-r](https://github.com/ASL-r) | [@Luffyzm3D2Y](https://github.com/Luffyzm3D2Y) | [@SuTiao](https://github.com/SuTiao?tab=overview&from=2022-12-01&to=2022-12-31)
 --- | --- | --- | ---
 ![@aprilspeight](https://avatars.githubusercontent.com/aprilspeight?s=150&v=1) | ![@Brawrdon](https://avatars.githubusercontent.com/Brawrdon?s=150&v=1) | ![@dayhaysoos](https://avatars.githubusercontent.com/dayhaysoos?s=150&v=1) | ![@ifiokjr](https://avatars.githubusercontent.com/ifiokjr?s=150&v=1)
