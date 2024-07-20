@@ -19,6 +19,10 @@ class SoftwareEngineer:
 me = SoftwareEngineer()
 me.say_hi()
 ```
+## 📝 Wesites
+
+- Personal website and blog: https://SGYSY.github.io/
+- Company website - Comming soon⚡
 ## 🍕 Siyu's Top 8 Friends🍕
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
@@ -30,10 +34,6 @@ me.say_hi()
 --- | --- | --- | ---
 ![@m0nica](https://avatars.githubusercontent.com/m0nica?s=150&v=1) | ![@Prophen](https://avatars.githubusercontent.com/Prophen?s=150&v=1) | ![@kjaymiller](https://avatars.githubusercontent.com/kjaymiller?s=150&v=1) | ![tom](https://wittenbrock.github.io/toms-myspace-page/pictures/tom-pic.jpg)
 
-## 📝 Wesites
-
-- Personal website and blog: https://SGYSY.github.io/
-- Company website - Comming soon⚡
 
 ## 🔧 Technologies & Tools
 
