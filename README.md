@@ -32,7 +32,7 @@ me.say_hi()
 --- | --- | --- | ---
 <br><img src="https://github.com/SGYSY/SGYSY/blob/main/weize.jpg" alt="@chenweize1998" width="150" height="150"> | <br><img src="https://github.com/SGYSY/SGYSY/blob/main/liran.jpg" alt="@ASL-r" width="150" height="150"> | <br><img src="https://github.com/SGYSY/SGYSY/blob/main/ziming.jpg" alt="@Luffyzm3D2Y" width="150" height="150"> | <br><img src="https://github.com/SGYSY/SGYSY/blob/main/haoyang.jpg" alt="@SuTiao" width="150" height="150">
 
-[@1rubbishyuan](https://github.com/1rubbishyuan) | [@Prophen](https://github.com/SmallRabit) | [@kjaymiller](https://github.com/minleminzui) | [tom](https://github.com/WaterCoFire)
+[@1rubbishyuan](https://github.com/1rubbishyuan) | [@SmallRabit](https://github.com/SmallRabit) | [@minleminzui](https://github.com/minleminzui) | [WaterCoFire](https://github.com/WaterCoFire)
 --- | --- | --- | ---
 <br><img src="https://github.com/SGYSY/SGYSY/blob/main/jiarui150.jpg" alt="@1rubbishyuan" > | <br><img src="https://github.com/SGYSY/SGYSY/blob/main/lixin.png" alt="@ASL-r" width="150" height="150"> | <br><img src="https://github.com/SGYSY/SGYSY/blob/main/yitong.jpg" alt="@Luffyzm3D2Y" width="150" height="150"> | <br><img src="https://github.com/SGYSY/SGYSY/blob/main/jason.jpg" alt="@SuTiao" width="150" height="150">
 
