@@ -34,7 +34,7 @@ me.say_hi()
 
 [@1rubbishyuan](https://github.com/1rubbishyuan) | [@Prophen](https://github.com/Prophen) | [@kjaymiller](https://github.com/kjaymiller) | [tom](#https://wittenbrock.github.io/toms-myspace-page/)
 --- | --- | --- | ---
-<br><img src="https://github.com/SGYSY/SGYSY/blob/main/jiarui.jpg" alt="@1rubbishyuan" > | <br><img src="https://github.com/SGYSY/SGYSY/blob/main/liran.jpg" alt="@ASL-r" width="150" height="150"> | <br><img src="https://github.com/SGYSY/SGYSY/blob/main/ziming.jpg" alt="@Luffyzm3D2Y" width="150" height="150"> | <br><img src="https://github.com/SGYSY/SGYSY/blob/main/haoyang.jpg" alt="@SuTiao" width="150" height="150">
+<br><img src="https://github.com/SGYSY/SGYSY/blob/main/jiarui150.jpg" alt="@1rubbishyuan" > | <br><img src="https://github.com/SGYSY/SGYSY/blob/main/liran.jpg" alt="@ASL-r" width="150" height="150"> | <br><img src="https://github.com/SGYSY/SGYSY/blob/main/ziming.jpg" alt="@Luffyzm3D2Y" width="150" height="150"> | <br><img src="https://github.com/SGYSY/SGYSY/blob/main/haoyang.jpg" alt="@SuTiao" width="150" height="150">
 
 
 
