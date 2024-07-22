@@ -30,11 +30,11 @@ me.say_hi()
 ## 🍕 Siyu's Top 8 Friends🍕
 [@chenweize1998](https://github.com/chenweize1998) | [@ASL-r](https://github.com/ASL-r) | [@Luffyzm3D2Y](https://github.com/Luffyzm3D2Y) | [@SuTiao](https://github.com/SuTiao?tab=overview&from=2022-12-01&to=2022-12-31)
 --- | --- | --- | ---
-![@aprilspeight](https://avatars.githubusercontent.com/aprilspeight?s=150&v=1) | ![@Brawrdon](https://avatars.githubusercontent.com/Brawrdon?s=150&v=1) | ![@dayhaysoos](https://avatars.githubusercontent.com/dayhaysoos?s=150&v=1) | ![@ifiokjr](https://avatars.githubusercontent.com/ifiokjr?s=150&v=1)
+<br><img src="https://github.com/SGYSY/SGYSY/blob/main/weize.jpg" alt="@chenweize1998" width="150" height="150"> | <br><img src="https://github.com/SGYSY/SGYSY/blob/main/liran.jpg" alt="@ASL-r" width="150" height="150"> | <br><img src="https://github.com/SGYSY/SGYSY/blob/main/ziming.jpg" alt="@Luffyzm3D2Y" width="150" height="150"> | <br><img src="https://github.com/SGYSY/SGYSY/blob/main/haoyang.jpg" alt="@SuTiao" width="150" height="150">
 
 [@1rubbishyuan](https://github.com/1rubbishyuan) | [@Prophen](https://github.com/Prophen) | [@kjaymiller](https://github.com/kjaymiller) | [tom](#https://wittenbrock.github.io/toms-myspace-page/)
 --- | --- | --- | ---
-![@m0nica](https://avatars.githubusercontent.com/m0nica?s=150&v=1) | ![@Prophen](https://avatars.githubusercontent.com/Prophen?s=150&v=1) | ![@kjaymiller](https://avatars.githubusercontent.com/kjaymiller?s=150&v=1) | ![tom](https://wittenbrock.github.io/toms-myspace-page/pictures/tom-pic.jpg)
+<br><img src="https://github.com/SGYSY/SGYSY/blob/main/jiarui.jpg" alt="@1rubbishyuan" width="150" height="150"> | <br><img src="https://github.com/SGYSY/SGYSY/blob/main/liran.jpg" alt="@ASL-r" width="150" height="150"> | <br><img src="https://github.com/SGYSY/SGYSY/blob/main/ziming.jpg" alt="@Luffyzm3D2Y" width="150" height="150"> | <br><img src="https://github.com/SGYSY/SGYSY/blob/main/haoyang.jpg" alt="@SuTiao" width="150" height="150">
 
 
 
