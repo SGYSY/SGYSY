@@ -1,5 +1,5 @@
 ## Hi there 👋
-A ✨ _special_ ✨ show on Siyu's GitHub profile.💬📫😄
+A ✨ _special_ ✨ show on Siyu's GitHub profile.📫😄
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
