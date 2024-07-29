@@ -8,7 +8,7 @@ class SoftwareEngineer:
     def __init__(self):
         self.name = "Siyu Yan"
         self.role = "🌱President of the iosClub at Central South University
-                     👯founder of Yunzhi Technology Company
+                     👯Founder of Yunzhi Technology Company
                      🔭 Future PhD student in the Bay Area, USA."
         self.language_spoken = ["zh_CN", "en_US"]
 
