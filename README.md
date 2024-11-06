@@ -23,7 +23,6 @@ me.say_hi()
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
 ## 📝 Wesites
-- Personal website and blog: https://SGYSY.github.io/
 - Company website - Comming soon⚡
 - <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
